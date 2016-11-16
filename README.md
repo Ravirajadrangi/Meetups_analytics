@@ -1,5 +1,5 @@
 # Meetups_analytics
-Meetup is an application allowing people to meet around a specific activity/sport/hobby. The codes in this repository aims at exploring the data collected by that app through its REST API.
+Meetup is an application allowing people to meet around a specific activity/sport/hobby. The codes in this repository aim at exploring the data collected by that app through its REST API.
 
 In particular ther are two codes:
 API_request.py: Python code that request the Meetup API and store the data in a pandas dataframe.
